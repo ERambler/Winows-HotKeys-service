@@ -1,0 +1,15 @@
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\bin\Debug\net7.0-windows\HotKeys.exe
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\bin\Debug\net7.0-windows\HotKeys.deps.json
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\bin\Debug\net7.0-windows\HotKeys.runtimeconfig.json
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\bin\Debug\net7.0-windows\HotKeys.dll
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\bin\Debug\net7.0-windows\HotKeys.pdb
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.csproj.AssemblyReference.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.AssemblyInfoInputs.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.AssemblyInfo.cs
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.csproj.CoreCompileInputs.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.dll
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\refint\HotKeys.dll
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.pdb
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\HotKeys.genruntimeconfig.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Debug\net7.0-windows\ref\HotKeys.dll

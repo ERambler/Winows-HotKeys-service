@@ -1,0 +1,5 @@
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\pub\HotKeys.exe
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\pub\HotKeys.dll
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\pub\HotKeys.deps.json
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\pub\HotKeys.runtimeconfig.json
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\pub\HotKeys.pdb

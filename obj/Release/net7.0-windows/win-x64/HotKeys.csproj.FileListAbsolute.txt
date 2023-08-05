@@ -1,0 +1,5 @@
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Release\net7.0-windows\win-x64\HotKeys.csproj.AssemblyReference.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Release\net7.0-windows\win-x64\HotKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Release\net7.0-windows\win-x64\HotKeys.AssemblyInfoInputs.cache
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Release\net7.0-windows\win-x64\HotKeys.AssemblyInfo.cs
+C:\Users\ERambler\OneDrive\Документы\Документы БГТУ\Laboratories\Labs\HotKey\HotKeys\obj\Release\net7.0-windows\win-x64\HotKeys.csproj.CoreCompileInputs.cache
